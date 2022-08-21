@@ -1,14 +1,16 @@
 {
   "development": {
-    "database": "psyco_ease",
-    "host": "127.0.0.1",
-    "dialect": "mysql",
-    "username": "root",
-    "password": ""
+    "username": "u867083740_subhamoy",
+    "password": "Subhamoy$24",
+    "database": "u867083740_psyco_ease",
+    "host":  "185.187.241.1",
+    "dialect": "mysql"
   },
   "test": {
-    "database": "psyco_ease_test",
-    "host": "127.0.0.1",
+    "username": "u867083740_subhamoy",
+    "password": "Subhamoy$24",
+    "database": "u867083740_psyco_ease",
+    "host":  "185.187.241.1",
     "dialect": "mysql"
   },
   "production": {
