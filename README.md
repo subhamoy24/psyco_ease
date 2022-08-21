@@ -43,3 +43,5 @@ it node js backed patient registration system.
  - open terminal change path to projects root.
  - npm install
  - npm start
+
+### for database dump please checkout data folder. file is under it.
