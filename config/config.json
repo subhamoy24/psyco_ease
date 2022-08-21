@@ -1,0 +1,19 @@
+{
+  "development": {
+    "database": "psyco_ease",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "username": "root",
+    "password": ""
+  },
+  "test": {
+    "database": "psyco_ease_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "database": "psyco_ease_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
