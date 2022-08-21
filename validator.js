@@ -93,7 +93,7 @@ const schema = {
       type: 'string',
     }
   },
-  required: ['name', 'email', 'address', 'password', 'photo', 'psychiatristId']
+  required: ['name', 'email', 'address', 'password', 'photo', 'psychiatristId', 'phoneNumber']
 };
 module.exports = (data) => {
   const validate =  ajv.compile(schema);

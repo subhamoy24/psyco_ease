@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "u867083740_subhamoy",
-    "password": "Subhamoy$24",
-    "database": "u867083740_psyco_ease",
-    "host":  "185.187.241.1",
+    "database": "psyco_ease",
+    "host": "127.0.0.1",
+    "username": "root",
+    "password": "",
     "dialect": "mysql"
   },
   "test": {
-    "username": "u867083740_subhamoy",
-    "password": "Subhamoy$24",
-    "database": "u867083740_psyco_ease",
-    "host":  "185.187.241.1",
+    "database": "psyco_ease",
+    "host": "127.0.0.1",
+    "username": "root",
+    "password": "",
     "dialect": "mysql"
   },
   "production": {
-    "username": "u867083740_subhamoy",
-    "password": "Subhamoy$24",
-    "database": "u867083740_psyco_ease",
-    "host":  "185.187.241.1",
+    "database": "psyco_ease",
+    "host": "127.0.0.1",
+    "username": "root",
+    "password": "",
     "dialect": "mysql"
   }
 }
